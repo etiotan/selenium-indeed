@@ -1,0 +1,463 @@
+1491147742752	geckodriver	INFO	Listening on 127.0.0.1:49702
+1491147745246	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.BBZN9bPn9RoO
+1491147745277	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491147745315	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49708
+1491147954756	geckodriver	INFO	Listening on 127.0.0.1:49825
+1491147956806	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.crTxJlcDLMA9
+1491147956855	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491147956887	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49831
+1491147958413	Marionette	INFO	Listening on port 49831
+1491147959031	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491148020727	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.5YRvMiWWXc8M
+1491148008125	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491148008133	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49880
+1491148009772	Marionette	INFO	Listening on port 49880
+1491148010422	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 1256] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1491148312538	geckodriver	INFO	Listening on 127.0.0.1:50090
+1491148314556	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.GGZlE6sGbVhj
+1491148314564	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491148314572	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50096
+1491148316294	Marionette	INFO	Listening on port 50096
+1491148316853	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+1491148386048	geckodriver	INFO	Listening on 127.0.0.1:50162
+1491148388113	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.CXYWUkXHMFYv
+1491148388125	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491148388144	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50169
+1491148389428	Marionette	INFO	Listening on port 50169
+1491148389998	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491148410201	geckodriver	INFO	Listening on 127.0.0.1:50217
+1491148412234	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.PcN2MygnLaIS
+1491148412240	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491148412252	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50223
+1491148413190	Marionette	INFO	Listening on port 50223
+1491148413696	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+48451557	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50274
+1491148452308	Marionette	INFO	Listening on port 50274
+1491148452902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491148476112	geckodriver	INFO	Listening on 127.0.0.1:50344
+1491148478167	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.GMjWH9iaTVXM
+1491148478173	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491148478182	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50350
+1491148479024	Marionette	INFO	Listening on port 50350
+1491148479546	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491148519091	geckodriver	INFO	Listening on 127.0.0.1:50429
+1491148521162	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.wi0lN23DzZjR
+1491148521183	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491148521198	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50435
+1491148522704	Marionette	INFO	Listening on port 50435
+1491148523429	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 6112] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1491172365724	geckodriver	INFO	Listening on 127.0.0.1:50887
+1491172367753	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.Jj4d11H7qVpU
+1491172367770	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491172367778	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50893
+1491172369728	Marionette	INFO	Listening on port 50893
+1491172370303	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://app.jobvite.com/widget20.js?v=374, line 786: unreachable code after return statement
+[Child 1636] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1491172598747	geckodriver	INFO	Listening on 127.0.0.1:51029
+1491172600830	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.9YC7f7MeL0ah
+1491172600830	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491172600846	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51035
+1491172602470	Marionette	INFO	Listening on port 51035
+1491172603188	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.accenture.com/bundles/prebodyjs?v=phlF2mIqMSLAYsqhFSSP-Etg0tHvPTumg0VEPS7l99Y1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.accenture.com/bundles/postbodyjs?v=6l9DvZU_20F-_YYOOidqm5-Tm-drHvhJLAulJN-5z981, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.accenture.com/bundles/bootstrapvalidator?v=DEcYxhkq7IrmgjFEQjfA3w_5J5By9lerstY2lLmluG81, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://assets.adobedtm.com/ab9e1300887a3a7bf0bc27e349961a628daf3cfe/satelliteLib-4d57359bad9b64543801e70b6391e8db879b10d3.js, line 11: TypeError: e.location is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+eckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491173051531	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51303
+1491173053220	Marionette	INFO	Listening on port 51303
+1491173053659	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3300] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 3300] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+:marionette	INFO	Connecting to Marionette on localhost:51381
+1491173216229	Marionette	INFO	Listening on port 51381
+1491173216846	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+eckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491173290783	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51495
+1491173292345	Marionette	INFO	Listening on port 51495
+1491173292931	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+eckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491173329441	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51593
+1491173331233	Marionette	INFO	Listening on port 51593
+1491173331792	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+eckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491173390312	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51697
+1491173391106	Marionette	INFO	Listening on port 51697
+1491173391559	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 3472] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+arionette on localhost:51778
+1491173463844	Marionette	INFO	Listening on port 51778
+1491173464306	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 5100] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 5100] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+on
+[Child 7484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 7484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600AE,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1491173651362	geckodriver	INFO	Listening on 127.0.0.1:51925
+1491173653426	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.QUSpMdkS3Clt
+1491173653434	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491173653442	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51931
+1491173654528	Marionette	INFO	Listening on port 51931
+1491173655084	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 9788] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1491173725826	geckodriver	INFO	Listening on 127.0.0.1:51991
+1491173727883	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.UWFBLioZwpQK
+1491173727892	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491173727902	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51997
+1491173728666	Marionette	INFO	Listening on port 51997
+1491173729061	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1491175010045	geckodriver	INFO	Listening on 127.0.0.1:52125
+1491175012172	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.6k78X6wR487o
+1491175012181	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491175012227	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52131
+1491175014874	Marionette	INFO	Listening on port 52131
+1491175015503	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491175076557	geckodriver	INFO	Listening on 127.0.0.1:52197
+1491175078631	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.bWNRcv2HG4Zt
+1491175078638	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491175078646	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52208
+1491175080343	Marionette	INFO	Listening on port 52208
+1491175081133	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491175161279	geckodriver	INFO	Listening on 127.0.0.1:52282
+1491175163365	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.lTaOHDmF4MW9
+1491175163382	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491175163400	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52288
+1491175164963	Marionette	INFO	Listening on port 52288
+1491175165553	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491175309869	geckodriver	INFO	Listening on 127.0.0.1:52467
+1491175311779	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.6tXGI4kpta7j
+1491175311786	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491175311793	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52473
+1491175312451	Marionette	INFO	Listening on port 52473
+1491175312819	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7980] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 7980] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+:marionette	INFO	Connecting to Marionette on localhost:52717
+1491175550978	Marionette	INFO	Listening on port 52717
+1491175551427	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491175600604	geckodriver	INFO	Listening on 127.0.0.1:52786
+1491175602687	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.aJUreWZXr9Si
+1491175602703	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491175602703	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52792
+1491175603497	Marionette	INFO	Listening on port 52792
+1491175603855	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4164] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9C0025,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600AE,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+ds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 8880] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1491175779946	geckodriver	INFO	Listening on 127.0.0.1:53046
+1491175782030	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.zfHock7hf5nG
+1491175782030	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491175782061	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53052
+1491175902403	geckodriver	INFO	Listening on 127.0.0.1:53141
+1491175904440	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.lYBCX2k4rmWA
+1491175904456	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491175904456	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53147
+1491175905221	Marionette	INFO	Listening on port 53147
+1491175905985	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3060] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 3060] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+:marionette	INFO	Connecting to Marionette on localhost:53217
+1491175949066	Marionette	INFO	Listening on port 53217
+1491175950108	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 6568] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 6568] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+:marionette	INFO	Connecting to Marionette on localhost:53325
+1491176007484	Marionette	INFO	Listening on port 53325
+1491176007874	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491176096612	geckodriver	INFO	Listening on 127.0.0.1:53460
+1491176098710	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.NqgVMEmPyWds
+1491176098726	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491176098732	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53466
+1491176099519	Marionette	INFO	Listening on port 53466
+1491176099990	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491176426103	geckodriver	INFO	Listening on 127.0.0.1:53674
+1491176428056	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.ihE1Vx3pOs05
+1491176428072	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491176428072	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53682
+1491176429874	Marionette	INFO	Listening on port 53682
+1491176430316	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491176494721	geckodriver	INFO	Listening on 127.0.0.1:53721
+1491176496790	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.kSpUEmoTGGxY
+1491176496790	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491176496805	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53727
+1491176497527	Marionette	INFO	Listening on port 53727
+1491176497990	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491176540525	geckodriver	INFO	Listening on 127.0.0.1:53765
+1491176542623	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.lrdrAKt0oyVG
+1491176542639	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491176542639	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53771
+1491176544307	Marionette	INFO	Listening on port 53771
+1491176544763	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491176609723	geckodriver	INFO	Listening on 127.0.0.1:53813
+1491176611764	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.1zseafOkcf9O
+1491176611771	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491176611779	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53819
+1491176612680	Marionette	INFO	Listening on port 53819
+1491176613173	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491176657618	geckodriver	INFO	Listening on 127.0.0.1:53853
+1491176659673	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.XI3BbXMh5wD8
+1491176659681	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491176659688	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53859
+1491176660370	Marionette	INFO	Listening on port 53859
+1491176660840	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491176802097	geckodriver	INFO	Listening on 127.0.0.1:53933
+1491176804185	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.txYUwZ8opqei
+1491176804198	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491176804209	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53939
+1491176805013	Marionette	INFO	Listening on port 53939
+1491176805444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491176859108	geckodriver	INFO	Listening on 127.0.0.1:53998
+1491176861182	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.2Fd4W9KZfAUh
+1491176861191	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491176861201	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54004
+1491176862071	Marionette	INFO	Listening on port 54004
+1491176862429	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491188799772	geckodriver	INFO	Listening on 127.0.0.1:62888
+1491188800894	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.l3uZUHNNO2i1
+1491188800896	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491188801011	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62936
+1491188815488	Marionette	INFO	Listening on port 62936
+1491188817244	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491188908739	geckodriver	INFO	Listening on 127.0.0.1:64326
+1491188910796	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.WWIqDjzhsK3C
+1491188910811	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491188910811	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64355
+1491188912459	Marionette	INFO	Listening on port 64355
+1491188912949	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491232434184	geckodriver	INFO	Listening on 127.0.0.1:49496
+1491232435747	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.7vGp3L0a1Yed
+1491232435788	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491232435960	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49502
+1491232442566	Marionette	INFO	Listening on port 49502
+1491232443638	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491232712568	geckodriver	INFO	Listening on 127.0.0.1:49696
+1491232714644	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.s9JTzDRSGivh
+1491232714650	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491232714680	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49702
+1491232716278	Marionette	INFO	Listening on port 49702
+1491232716774	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491232770683	geckodriver	INFO	Listening on 127.0.0.1:49795
+1491232772746	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.dcNyR3sVHEh9
+1491232772767	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491232772777	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49801
+1491232773789	Marionette	INFO	Listening on port 49801
+1491232774310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491232789024	geckodriver	INFO	Listening on 127.0.0.1:49892
+1491232791084	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.X5gGAkC3xn9A
+1491232791090	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491232791098	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49898
+1491232791843	Marionette	INFO	Listening on port 49898
+1491232792287	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491233298485	geckodriver	INFO	Listening on 127.0.0.1:50144
+1491233300542	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.c7eGinymPOzS
+1491233300550	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491233300558	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50150
+1491233301253	Marionette	INFO	Listening on port 50150
+1491233301651	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11232] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 11232] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+arionette	INFO	Connecting to Marionette on localhost:50258
+1491233372307	Marionette	INFO	Listening on port 50258
+1491233372683	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+eckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491233401899	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50348
+1491233402626	Marionette	INFO	Listening on port 50348
+1491233403079	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1660"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1660:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:5
+NetworkResponseListener.prototype.onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:578:7
+NetworkResponseListener.prototype.onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:669:7
+Line: 1660, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1660"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1660:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:5
+NetworkResponseListener.prototype.onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:578:7
+NetworkResponseListener.prototype.onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:669:7
+Line: 1660, column: 0
+tils.js:101:14
+NetworkResponseListener.prototype._onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:5
+NetworkResponseListener.prototype.onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:578:7
+NetworkResponseListener.prototype.onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:669:7
+Line: 1660, column: 0
+1491234406985	geckodriver	INFO	Listening on 127.0.0.1:50995
+1491234409042	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.5Y0swqyRqhBi
+1491234409063	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491234409072	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51001
+1491234409786	Marionette	INFO	Listening on port 51001
+1491234410301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491234767456	geckodriver	INFO	Listening on 127.0.0.1:51361
+1491234769540	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.m0sU06WYGusp
+1491234769550	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491234769564	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51370
+1491234770422	Marionette	INFO	Listening on port 51370
+1491234770883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491234822357	geckodriver	INFO	Listening on 127.0.0.1:51465
+1491234824419	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.GK6fX77XmcPI
+1491234824428	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491234824439	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51471
+1491234825179	Marionette	INFO	Listening on port 51471
+1491234825680	Marionette	WARN	TLS certificate errors will be ignored for this session
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1660"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/netwo1491235258330	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.oPVRzAq0aL9A
+1491235258351	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491235258363	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51759
+1491235259230	Marionette	INFO	Listening on port 51759
+1491235259727	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1660"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1660:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:5
+NetworkResponseListener.prototype.onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:578:7
+NetworkResponseListener.prototype.onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:669:7
+Line: 1660, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1660"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1660:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:5
+NetworkResponseListener.prototype.onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:578:7
+NetworkResponseListener.prototype.onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:669:7
+Line: 1660, column: 0
+xception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1660"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolJavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1660"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1660:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:5
+NetworkResponseListener.prototype.onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:578:7
+NetworkResponseListener.prototype.onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:669:7
+Line: 1660, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1660"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1660:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loade1491237199700	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.3vkMr8nriQAi
+1491237199700	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491237199716	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52498
+1491237200440	Marionette	INFO	Listening on port 52498
+1491237200819	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1491237929161	geckodriver	INFO	Listening on 127.0.0.1:52705
+1491237931215	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.QAlSlOBj5kiW
+1491237931230	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491237931246	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52711
+1491237932108	Marionette	INFO	Listening on port 52711
+1491237932580	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491238011077	geckodriver	INFO	Listening on 127.0.0.1:52827
+1491238013141	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.k1yKqUYHIZVq
+1491238013156	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491238013163	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52833
+1491238013875	Marionette	INFO	Listening on port 52833
+1491238014269	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491238082128	geckodriver	INFO	Listening on 127.0.0.1:52948
+1491238084184	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.lC6S7vWap5iP
+1491238084196	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491238084212	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52956
+1491238084958	Marionette	INFO	Listening on port 52956
+1491238085362	Marionette	WARN	TLS certificate errors will be ignored for this session
+1491238287716	geckodriver	INFO	Listening on 127.0.0.1:53132
+1491238289821	mozprofile::profile	INFO	Using profile path C:\Users\ETIOTA~1\AppData\Local\Temp\rust_mozprofile.FnhNiWuC1rpN
+1491238289821	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1491238289853	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53138
+1491238290579	Marionette	INFO	Listening on port 53138
+1491238290984	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600AE,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+[Child 10728] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+odriver::marionette	INFO	Connecting to Marionette on localhost:53237
+1491238376868	Marionette	INFO	Listening on port 53237
+1491238377370	Marionette	WARN	TLS certificate errors will be ignored for this session
